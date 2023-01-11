@@ -27,12 +27,6 @@ Una rama es una versión paralela de un repositorio. Se incluye en del repositor
  Un Issue es una nota en un repositorio que trata de llamar la atención sobre un problema. Puede ser un error a corregir, una petición para añadir una nueva opción o característica, una pregunta para aclarar algún tema que no está correctamente aclarado o muchas otras cosas diferentes.
 **7.Qué es una mención y qué implica**
 Notificar a una persona en GitHub con "@" antes de su nombre de usuario. Los usuarios de una organización en GitHub también pueden formar parte de un equipo que se puede mencionar.
--notificaciones de inspección:
-Una notificación sobre la actividad en un repositorio al que se ha subscrito un usuario.
--notificaciones por correo electrónico:
-Las notificaciones enviadas a la dirección de correo electrónico de un usuario.
--notificaciones web:
-Las notificaciones que se muestran en la interfaz web en GitHub: https://github.com/notifications
 
 
  **8.Qué es una etiqueta (label) y por qué su uso**
@@ -42,6 +36,13 @@ Las notificaciones que se muestran en la interfaz web en GitHub: https://github.
 
  **9. Qué son las notificaciones. Indica las tres opciones de notificaciones**
  Actualizaciones que se entregan por la web o por correo electrónico, en función de la configuración, y que proporcionan información sobre las actividades que te interesan.
+ -notificaciones de inspección:
+Una notificación sobre la actividad en un repositorio al que se ha subscrito un usuario.
+-notificaciones por correo electrónico:
+Las notificaciones enviadas a la dirección de correo electrónico de un usuario.
+-notificaciones web:
+Las notificaciones que se muestran en la interfaz web en GitHub: https://github.com/notifications
+
     
  **10. Qué son GitHub Pages**
  GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web.
